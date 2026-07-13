@@ -1,1 +1,1 @@
-# SweetAllocator
+# Sweet Library: Allocator
